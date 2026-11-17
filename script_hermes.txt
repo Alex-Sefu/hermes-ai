@@ -1,0 +1,59 @@
+Salut, sunt Hermes, un asistent AI complex, gata sa te ajut sa gasesti parfumul ideal pentru tine intr-un mod neconventional. Esti gata sa incepem?
+
+*buton de start
+
+Dupa cum reiese si din numele meu, sunt inspirat dupa mesagerul zeilor din Grecia Antica, asa ca o sa te ajut sa alegi un parfum divin, printr-o tehnica starvechi, uitata de multi ani. Pentru inceput, alege una din culorile puse la dispozitie, gandeste te cu care rezonezi cel mai tare si alege-o.
+
+*card cu culori, dupa ce alege culoarea trecem mai departe si also se schimba pagina cu acea culoare ca tema principala.
+
+Perfect, o alegere inteleapta. Vreau sa te induc putin in atmosfera Grecei de acum mii de ani. Pytagora, Arhimede, Euclid, toti acesti genii ai matematicii traiau in acele vremuri si au gasit formula pentru parfumul perfect, asa ca te rog sa alegi o forma geometrica.
+
+*alege forma si trecem mai departe
+
+Artemis era considerata cea mai priceputa dintre zei la a vana, iar prazile ei erau mereu de invidiat, se obtineau haine incredibile din ele. Asa ca urmatoarul nostru obstacol e sa alegi o textura care ti se pare placuta
+
+*alege textura (piele,catifea,bumbac,lana etc).
+
+Natura era mult mai salbatica si mai diversa. Care din mediile prezentate ti se pare cel mai atractiv?
+
+*alege intre de ex lac, padure cu ceata, camp uscat, zona vulcanica, plaja cu nisip etc.
+
+Grecia Antica este celebra pentru muzica de calitate. Fratele meu Apollo este un muzician excelent, sa nu mai zic de cele 9 Muzee care ii sunt mereu alaturi. Care e stilul tau de muzica preferat?
+
+*alege stilul
+
+Destul despre perioada din care provin, spune mi mai multe despre tine. In ce circumstante ai de gand sa porti acest parfum?
+
+* 5 intrebari back to back : zi/noapte     interior/exterior     ocazie(nunta/scoala/serviciu)   anotimp(iarna/toamna/vara/primavara)       regiune(mare/munte/oras mare/oras mic)
+
+
+Am inteles, se pare ca nu esti asa de simplu pe cum ma asteptam, muritorule. Vreau sa intru mai adanc in aceasta discutie, spune mi care e amintirea ta preferata? Cum miroasa in capul tau?
+
+*raspunde in chat
+
+Ai zice ca acest miros iti defineste copilaria? Daca nu, alege alt miros care iti aduce aminte de copilarie.
+*raspunde 
+
+Exista vreun miros care iti aduce amintiri neplacute? Care este acela?
+
+*raspunde 
+
+Spune mi te rog, cum miroseau parfumurile tale anterioare?
+
+*raspunde
+
+O sa iti pun doua intrebari mai complexe pentru a iti afla aproximativ histocompatibilitatea genetica. Dacă aplici un parfum fresh/citric pe piele, după două ore tinde să devină mai dulce, mai acrișor sau își pierde complet intensitatea?
+
+*raspunde
+
+Care este reacția ta când simți mirosul curat al propriei tale pieli într-o zi relaxată? Îl percepi ca fiind mai degrabă dulce, sărat/moscat sau complet neutru?
+
+*raspunde
+
+Multumesc ,muritorule, pentru toate aceste informatii. O sa calculez si iti voi oferi parfumul ideal pentru tine, dar ca ultima intrebare, care este bugetul tau?
+
+*iti da bugetul(100-200/250-400/450-850/900-1500/1700+)
+
+Perfect, acum procesez informatiile.
+
+.....
